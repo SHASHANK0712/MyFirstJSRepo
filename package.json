@@ -1,0 +1,15 @@
+{
+  "name": "userregister",
+  "version": "1.0.0",
+  "description": "register user ",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js"
+  },
+  "keywords": [
+    "node",
+    "fs"
+  ],
+  "author": "edureka",
+  "license": "ISC"
+}
